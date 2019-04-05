@@ -1,5 +1,9 @@
 # BookSearcher
 
+This is a one page project, where you can search any book from Google 
+Books API. You can search by title or author. Results will be shown as 
+list of cover photos with title and author.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.2.
 
 ## Development server
