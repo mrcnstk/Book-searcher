@@ -1,0 +1,12 @@
+<div class="main">
+  <div class="search">
+    <label for="search">Search</label>
+    <input
+      type="text"
+      id="search"
+      name="search"
+      [(ngModel)]="searchedValue"
+      (keyup)="onKey($event)"
+    />
+  </div>
+</div>

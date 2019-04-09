@@ -1,0 +1,21 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0;
+  padding: 30px;
+  width: 100%;
+}
+.search {
+  display: flex;
+  flex-direction: column;
+  width: 250px;
+}
+label {
+  font-family: Montserrat, sans-serif;
+}
+input {
+  height: 60px;
+  border: 0;
+  border-bottom: 1px solid black;
+}
